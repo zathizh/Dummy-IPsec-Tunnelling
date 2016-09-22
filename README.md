@@ -1,2 +1,2 @@
 # Dummy-IPsec-Tunnelling
-provide the commiunication between remote "tun" interfaces
+provide encrypted commiunication between remote "tun" interfaces
